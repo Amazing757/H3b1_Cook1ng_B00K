@@ -1,3 +1,4 @@
+
 En_Orange_Caramel_Tea (≈ 40–80 kcal) Warm, aromatic, deeply fragrant, gently sweet, comforting with mild relaxation.
 
 Ingredients (≈350 ml final drink including solids)
@@ -110,3 +111,7 @@ CN_橙子·焦糖紅茶（≈ 40～80 kcal） 溫暖、香氣濃郁深厚，治�
 飲後體感
 
 • 溫暖放鬆，微微睡意，放鬆神經。
+
+
+![step](../images/DRINKS/DRINKS_002_Orange_Caramel_Tea/step.jpg)
+![final](../images/DRINKS/DRINKS_002_Orange_Caramel_Tea/final.jpg)
